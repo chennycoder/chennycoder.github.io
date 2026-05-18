@@ -1,5 +1,7 @@
 name: Deploy site
 
+# Builds al-folio and publishes the generated _site folder to gh-pages.
+
 on:
   push:
     branches:
