@@ -12,4 +12,4 @@ The most-read piece so far has reached **3.9k views and 61 bookmarks** on Zhihu 
 
 **Status**: Active · New essays roughly biweekly
 
-_Zhihu profile link to be added._
+*Zhihu profile link to be added.*

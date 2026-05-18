@@ -10,4 +10,4 @@ Code and notebooks accompanying my ongoing PhD research at the intersection of b
 
 **Status**: Active · Updated regularly
 
-_Public link to be added once the project README is polished._
+*Public link to be added once the project README is polished.*
